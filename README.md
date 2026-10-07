@@ -8,7 +8,7 @@ Official Smart Contract repository for ApexEmpire ($APXE) token deployed on the 
 - **Symbol:** $APXE
 - **Network:** Polygon (⚡ Powered by Polygon)
 - **Total Supply:** 7,10,00,000 $APXE (Strictly Scarce Supply)
-- **Official Contract Address:** 0x6D40aF0282bf60b9cDc8b0396e9530003381E6A6
+- **Official Contract Address:** 0x87e5423DfFF91F9B7A9F4a49ABE6815b3935366f
 
 ## 📑 Verification & Security
 - **PolygonScan:** Smart Contract code is fully verified and published.
@@ -16,6 +16,6 @@ Official Smart Contract repository for ApexEmpire ($APXE) token deployed on the 
 
 ## 🌐 Official Access Channels
 - 💻 **Official Website:** https://infoapexempire.com
-- 📖 **Official Whitepaper:** https://infoapexempire.com
+- 📖 **Official Whitepaper:** https://drive.google.com/file/d/1D7zSvjBBEI6fOXd_rbMunj2kqynvW4u1/view?usp=drivesdk
 - 🔍 **About Our Vision:** https://infoapexempire.com
 - 📧 **Official Support:** support@infoapexempire.com
