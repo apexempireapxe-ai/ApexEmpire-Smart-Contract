@@ -16,6 +16,6 @@ Official Smart Contract repository for ApexEmpire ($APXE) token deployed on the 
 
 ## 🌐 Official Access Channels
 - 💻 **Official Website:** https://infoapexempire.com
-- 📖 **Official Whitepaper:** https://drive.google.com/file/d/1D7zSvjBBEI6fOXd_rbMunj2kqynvW4u1/view?usp=drivesdk
+- 📖 **Official Whitepaper:** https://drive.google.com/file/d/17X5DWvSDnId6C-HPuMjToBUVq2OArXA7/view?usp=drivesdk
 - 🔍 **About Our Vision:** https://infoapexempire.com
 - 📧 **Official Support:** support@infoapexempire.com
